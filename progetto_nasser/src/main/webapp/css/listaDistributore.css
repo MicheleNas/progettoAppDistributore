@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #e30404;
+  border-radius: 50%;
+  display: inline-block;
+}
